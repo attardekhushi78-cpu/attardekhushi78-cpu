@@ -23,7 +23,7 @@
 
 | Category | Technologies / Languages |
 | :--- | :--- |
-| **Languages** | `Java`, `C`, `C++`, `Python`, `SQL (MySQL, PL/SQL)` |
+| **Languages** | `Java`, `C`,  `Python`, `SQL (MySQL, PL/SQL)` |
 | **Web & Frontend** | `HTML5`, `Tailwind CSS`, `Next.js`, `React`, `Streamlit`, `Wix` |
 | **AI, CV & Data** | `OpenCV`, `Ultralytics YOLOv8`, `NumPy`, `PIL`, `FastAPI` |
 | **Tools & Version Control** | `Git`, `GitHub`, `Visual Studio Code`, `Eclipse`, `AutoCAD` |
@@ -36,7 +36,6 @@
 | :--- | :--- | :--- |
 | **IIT BHU Jagriti ServeSmart** | CPU-efficient anchor-free `yolov8n` object detection and automated prediction formatting for social impact surveillance | `Python`, `YOLOv8`, `OpenCV` |
 | **EcoWarrior AI** | Real-time waste classification tool (Runner-up at Synapse 3.0 ). | `Python`, `YOLOv8`, `Streamlit` |
-
 | **The Indian Artisan Archive** | Interactive web platform featuring a custom craft map highlighting regional Indian traditions. | `Wix`, `JavaScript`, `HTML/CSS` |
 | **CloViz** | 3D computer vision smart mirror virtual try-on concept developed for Design Thinking coursework. | `Python`, `OpenCV`, `Computer Vision` |
 
