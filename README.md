@@ -13,7 +13,7 @@
 ---
 
 ### 🔭 What I'm Currently Working On
-- **Smart India Hackathon (SIH 2026) Finalist:** Building *LegalMetrix NAWI*, an offline-first desktop application for automated test report generation under OIML R-76 standards.
+
 - **Open Source:** Contributing to community projects and participating in programs like *GirlScript Summer of Code (GSSoC)*.
 - **Full-Stack & AI:** Exploring web apps, computer vision integrations (YOLOv8, OpenCV, Streamlit), and interactive archives like *The Indian Artisan Archive*.
 
